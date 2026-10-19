@@ -12,7 +12,6 @@
 
 UC Berkeley student exploring computer science, Python, and software development.
 
-😄 &nbsp;Pronouns: **she/her**
 
 ### 🛠️ Tech Stack
 
